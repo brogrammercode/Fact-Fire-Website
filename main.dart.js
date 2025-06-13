@@ -36219,11 +36219,12 @@ n=A.b2(a,o,n).w
 s=A.c4(o,70,o)
 r=t.E
 q=A.iA(B.ci,A.b([A.c4(o,50,200),A.x8(10,A.cG(o,o,B.p,o,o,new A.bK(B.as,o,o,o,o,o,B.O),o,10,o,o,o,o,120),o,o,0,o,o,o),A.x8(0,A.cV("FACT FIRE",o,A.aHA().$0().d.hj(B.j,30,B.an)),o,o,10,o,o,o)],r),B.M,B.bt)
-s=A.b([s,q,A.c4(o,m?20:150,o)],r)
-if(!m)B.b.N(s,A.b([A.iu(A.b([p.Js(!1),p.HN(!1)],r),B.aa,o,B.c7,B.ac)],r))
+s=A.b([s,q,A.c4(o,m?10:150,o)],r)
+q=!m
+if(q)B.b.N(s,A.b([A.iu(A.b([p.Js(!1),p.HN(!1)],r),B.aa,o,B.c7,B.ac)],r))
 else B.b.N(s,A.b([p.Js(!0),A.c4(o,50,o),p.HN(!0)],r))
 s.push(A.c4(o,m?80:120,o))
-s.push(A.iu(A.b([A.i9(B.BY,o,o,o),A.c4(o,o,20),A.i9(B.C0,o,o,o),A.c4(o,o,20),A.i9(B.BZ,o,o,o)],r),B.aa,o,B.c7,B.ac))
+if(q)B.b.N(s,A.b([A.iu(A.b([A.i9(B.BY,o,o,o),A.c4(o,o,20),A.i9(B.C0,o,o,o),A.c4(o,o,20),A.i9(B.BZ,o,o,o)],r),B.aa,o,B.c7,B.ac)],r))
 return A.cG(o,A.ky(s,B.aa,B.aB,B.ac),B.p,o,o,new A.bK(B.bm,o,o,o,o,o,B.O),o,l.a.b,o,o,o,o,n.a.a)},
 HN(a){var s,r,q,p=null,o=this.c
 o.toString
