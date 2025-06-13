@@ -36222,7 +36222,7 @@ q=A.iA(B.ci,A.b([A.c4(o,50,200),A.x8(10,A.cG(o,o,B.p,o,o,new A.bK(B.as,o,o,o,o,o
 s=A.b([s,q,A.c4(o,m?10:150,o)],r)
 q=!m
 if(q)B.b.N(s,A.b([A.iu(A.b([p.Js(!1),p.HN(!1)],r),B.aa,o,B.c7,B.ac)],r))
-else B.b.N(s,A.b([p.Js(!0),A.c4(o,50,o),p.HN(!0)],r))
+else B.b.N(s,A.b([p.Js(!0),A.c4(o,30,o),p.HN(!0)],r))
 s.push(A.c4(o,m?80:120,o))
 if(q)B.b.N(s,A.b([A.iu(A.b([A.i9(B.BY,o,o,o),A.c4(o,o,20),A.i9(B.C0,o,o,o),A.c4(o,o,20),A.i9(B.BZ,o,o,o)],r),B.aa,o,B.c7,B.ac)],r))
 return A.cG(o,A.ky(s,B.aa,B.aB,B.ac),B.p,o,o,new A.bK(B.bm,o,o,o,o,o,B.O),o,l.a.b,o,o,o,o,n.a.a)},
@@ -36333,7 +36333,7 @@ s=a1[c.d]
 a1=a0?300:A.b2(a2,b,a).w.a.b*0.6
 a=A.b2(a2,b,a).w
 r=A.aqj(0,A.j3(b,b,b,new A.Fw(A.T(115,158,158,158),32,2,b),B.y))
-q=a0?400:600
+q=a0?300:600
 p=A.f2(5)
 o=A.tA().$0().d
 o.toString
